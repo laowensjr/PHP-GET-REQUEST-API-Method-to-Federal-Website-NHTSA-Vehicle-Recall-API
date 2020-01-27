@@ -8,7 +8,7 @@ However you can also add a line of code that sets the variable to null (which is
 $postdata = null;
 
 See the code inside.
-
+Tested and working.
 
 
 
